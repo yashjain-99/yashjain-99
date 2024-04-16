@@ -14,6 +14,9 @@
  
  🌱 I’m currently learning **Django-REST framework & docker**
 
+ 👨‍💻 Familiar with <strong>Computer Vision</strong> and <strong>Natural Language Processing (NLP)</strong>
+
+
  </div>
  
 <div align="center"> 
@@ -33,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-   ><img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,python" /><br>
+   <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,python" /><br>
     <img src="https://skillicons.dev/icons?i=react,nextjs,ember,tailwind,sass,graphql,git" /><br>
     <img src="https://skillicons.dev/icons?i=django,express" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
