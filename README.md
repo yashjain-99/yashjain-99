@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
    ><img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,python" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ember,tailwind,sass,graphql,html,css,git" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ember,tailwind,sass,graphql,git" /><br>
     <img src="https://skillicons.dev/icons?i=django,express" /><br>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
 </div>
